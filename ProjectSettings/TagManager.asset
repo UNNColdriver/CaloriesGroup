@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pick Up
+  - Block
+  - apple
+  - avocado
+  - banana
+  - bread
+  - burger
+  - cake
+  - carrot
+  - blue cheese
+  - cheese
+  - cherry
+  - chicken
+  - chili con carne
+  - chip
+  - bag chips
+  - conconut
+  - croissant
+  - doughnut
+  - drink01
+  - drink02
+  - drink03
+  - fried egg
+  - fries
+  - grapes
+  - gyoza
+  - big mac
+  - hotdog
+  - ice cream
+  - ice cream2
+  - maki
+  - meatball
+  - mochi
+  - muffin
+  - mushroom
+  - omelette
+  - onigiri
+  - heart1
+  - heart2
+  - heart3
+  - onion
+  - pea
+  - pepper
+  - pineapple
+  - pizza
+  - rice_bowl
+  - salad
+  - saucisson
+  - sausage
+  - shrimp
+  - steak_cooked
+  - steak_uncooked
+  - sushi
+  - sweetpepper
+  - tacos
+  - tempura
+  - toast
+  - tomato
+  - watermelon
+  - wine
+  - PauseMenu
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Coins
+  - Obstacle
+  - Powerup
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
